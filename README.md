@@ -50,3 +50,6 @@ Natasha Sikinyi
 
 Samwel Omondi
 
+### Tableau link
+https://public.tableau.com/app/profile/samwel.omondi/viz/GenderDevelopmentIndex2019/2019GDIDashboard
+
