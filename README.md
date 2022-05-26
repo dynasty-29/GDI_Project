@@ -1,0 +1,2 @@
+# GDI_Project
+The Gender Development Index (GDI) measures gender gaps in human development achievements by accounting for disparities between women and men in three basic dimensions of human development—health, knowledge, and living standards using the same component indicators as in the Human Development Index (HDI). The GDI is the ratio of the HDIs calculated separately for females and males using the same methodology as in the HDI. It is a direct measure of the gender gap showing the female HDI as a percentage of the male HDI.
