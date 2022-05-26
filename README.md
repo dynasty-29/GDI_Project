@@ -37,3 +37,16 @@ What is the average gross national income per capita a male receives in the top 
 ## Data source
 
 https://www.kaggle.com/datasets/elmartini/gender-development-index-2019
+
+### colabartors
+
+Margaret Gathoni 
+
+Laura Abuko
+
+Griffin Buret
+
+Natasha Sikinyi
+
+Samwel Omondi
+
